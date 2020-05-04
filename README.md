@@ -1,1 +1,3 @@
-"BlackJack ReadMe File\nUsers VS Computer Dealer\nOOP Project"
+"BlackJack ReadMe File
+Users VS Computer Dealer
+OOP Project"
